@@ -1,4 +1,4 @@
-  <p><img src="https://github.com/Ashshiddqi/Ash/blob/main/Banner.png" alt="Ash banner"></p>
+  <p><img src="https://github.com/Ashshiddqi/Ashshiddqi/blob/main/Banner.png" alt="Ash banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Ash</h2><p></p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
