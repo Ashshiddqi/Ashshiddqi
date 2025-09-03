@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
-<img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">&nbsp;
-<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
-<img src="https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro" alt="Premiere Pro">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">&nbsp;
+<img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator&logoColor=FF9A00" alt="Illustrator">&nbsp;
+<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop&logoColor=31A8FF" alt="Photoshop">&nbsp;
+<img src="https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere-pro&logoColor=9999FF" alt="Premiere Pro">
