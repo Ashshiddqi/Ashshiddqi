@@ -12,8 +12,9 @@
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code">&nbsp;
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMTAiIHk9IjIwIiBmb250LXNpemU9IjE0IiBmb250LWZhbWlseT0iQXJpYWwiPklBPC90ZXh0Pjwvc3ZnPg==" alt="Illustrator">
-<img src="https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop">&nbsp;
-<img src="https://img.shields.io/badge/Premiere%20Pro-05122A?style=flat&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro">
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5QTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTciIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0iQXJpYWwiPklBPC90ZXh0Pjwvc3ZnPg==" alt="Illustrator">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzFBOEZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMiIgeT0iMTciIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0iQXJpYWwiPlBTPC90ZXh0Pjwvc3ZnPg==" alt="Photoshop">
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjOTk5OUZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMSIgeT0iMTciIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0iQXJpYWwiPlBSPC90ZXh0Pjwvc3ZnPg==" alt="Premiere Pro">
+
 
 
