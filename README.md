@@ -1,6 +1,6 @@
   <p><img src="https://github.com/Ashshiddqi/Ashshiddqi/blob/main/Banner.png" alt="Ash banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Ash</h2><p></p>
-<img alt="Night Coding" src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://64.media.tumblr.com/82e8f524a8652c39e2aaf9a95aa1f475/tumblr_pdkpq6iAAV1wraxsto1_1280.gifv)" align="right">
+<img alt="NightCoding"src="https://64.media.tumblr.com/82e8f524a8652c39e2aaf9a95aa1f475/tumblr_pdkpq6iAAV1wraxsto1_1280.gifv" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
